@@ -18,3 +18,16 @@ This is a simple customer support AI agent for Thoughtful AI. It uses predefined
    ```bash
    git clone <repository-url>
    cd chatbot
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Create a .env file in the project root and add your OpenAI API key:
+   OPENAI_API_KEY=your_openai_api_key
+## Running the App
+
+1. Start the Streamlit app:
+   ```bash
+   streamlit run chat.py
+2. Open your browser and go to http://localhost:8501 to interact with the AI agent.
