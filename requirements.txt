@@ -1,0 +1,12 @@
+langchain_openai
+langchain_core
+python_dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+# sse_startlette
+bs4
+pypdf
+faiss-cpu
