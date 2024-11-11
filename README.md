@@ -16,7 +16,7 @@ This is a simple customer support AI agent for Thoughtful AI. It uses predefined
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ZoraizDev/AI-Assistance.git
    cd chatbot
 
 2. Install dependencies:
